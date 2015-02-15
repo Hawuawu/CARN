@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>shortcut</key>
-		<string>KTV</string>
+		<string>KTV ssr</string>
 		<key>name</key>
 		<string>Katedra tělesné výchovy</string>
 		<key>rooms</key>
@@ -30,9 +30,9 @@
 	</dict>
 	<dict>
 		<key>shortcut</key>
-		<string>Kolej A</string>
+		<string>Kolej A 2</string>
 		<key>name</key>
-		<string>Kolej A</string>
+		<string>Kolej A 2</string>
 		<key>rooms</key>
 		<array/>
 		<key>exits</key>
@@ -463,16 +463,16 @@
 			</dict>
 		</array>
 	</dict>
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>SIC</string>
 		<key>name</key>
 		<string>Studijní a informační centrum</string>
 		<key>rooms</key>
 		<array>
-                        <string>SIC</string>
-                        <string>SIC-139</string>
-                        <string>SIC-259</string>
+			<string>SIC</string>
+			<string>SIC-139</string>
+			<string>SIC-259</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -486,41 +486,41 @@
 			</dict>
 		</array>
 	</dict>
-          <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>FAPPZ</string>
 		<key>name</key>
 		<string>Fakulta agrobiologie, potravinových a přírodních zdrojů</string>
 		<key>rooms</key>
 		<array>
-                        <string>AI</string>
-                        <string>AII</string>
-                        <string>AIII</string>
-                        <string>AIV</string>
-                        <string>A14</string>
-                        <string>A18</string>
-                        <string>A28</string>
-                        <string>A55</string>
-                        <string>A126</string>
-                        <string>A132</string>
-                        <string>A137</string>
-                        <string>A208</string>
-                        <string>A218</string>
-                        <string>A220</string>
-                        <string>A226</string>
-                        <string>A233</string>
-                        <string>A237</string>
-                        <string>A310</string>
-                        <string>A320</string>
-                        <string>A322</string>
-                        <string>A328</string>
-                        <string>A341</string>
-                        <string>A410</string>
-                        <string>A416</string>
-                        <string>A418</string>
-                        <string>A420</string>
-                        <string>A422</string>
-                        <string>A435</string>
+			<string>AI</string>
+			<string>AII</string>
+			<string>AIII</string>
+			<string>AIV</string>
+			<string>A14</string>
+			<string>A18</string>
+			<string>A28</string>
+			<string>A55</string>
+			<string>A126</string>
+			<string>A132</string>
+			<string>A137</string>
+			<string>A208</string>
+			<string>A218</string>
+			<string>A220</string>
+			<string>A226</string>
+			<string>A233</string>
+			<string>A237</string>
+			<string>A310</string>
+			<string>A320</string>
+			<string>A322</string>
+			<string>A328</string>
+			<string>A341</string>
+			<string>A410</string>
+			<string>A416</string>
+			<string>A418</string>
+			<string>A420</string>
+			<string>A422</string>
+			<string>A435</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -534,15 +534,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>AFA</string>
 		<key>name</key>
 		<string>FAPPZ - pavilon A</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -555,15 +553,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>AFB</string>
 		<key>name</key>
 		<string>FAPPZ - pavilon B</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -576,20 +572,19 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>AFC</string>
 		<key>name</key>
 		<string>FAPPZ - pavilon C</string>
 		<key>rooms</key>
 		<array>
-                        <string>C1</string>
-                        <string>C109</string>
-                        <string>C111</string>
-                        <string>C112</string>
-                        <string>C118</string>
-                        <string>C241</string>
+			<string>C1</string>
+			<string>C109</string>
+			<string>C111</string>
+			<string>C112</string>
+			<string>C118</string>
+			<string>C241</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -597,21 +592,20 @@
 				<key>longtitude</key>
 				<real>14.37171</real>
 				<key>latitude</key>
-				<real>50.12940</real>
+				<real>50.1294</real>
 				<key>name</key>
 				<string>Orientační</string>
 			</dict>
 		</array>
 	</dict>
-        
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>AFD</string>
 		<key>name</key>
 		<string>FAPPZ - pavilon D</string>
 		<key>rooms</key>
 		<array>
-                        <string>D</string>
+			<string>D</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -625,15 +619,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>Výukové skleníky</string>
 		<key>name</key>
 		<string>Výukové skleníky</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -646,15 +638,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>FAPPZ - meteorologická stanice</string>
 		<key>name</key>
 		<string>FAPPZ - meteorologická stanice</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -667,27 +657,26 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>FZP</string>
 		<key>name</key>
 		<string>Fakulta životního prostředí</string>
 		<key>rooms</key>
 		<array>
-                    <string>ZI</string>
-                    <string>ZII</string>
-                    <string>Z017</string>
-                    <string>Z019</string>
-                    <string>Z028</string>
-                    <string>Z030</string>
-                    <string>Z115</string>
-                    <string>Z117</string>
-                    <string>Z118</string>
-                    <string>Z119</string>
-                    <string>Z120</string>
-                    <string>Z225</string>
-                    <string>Z342</string>
+			<string>ZI</string>
+			<string>ZII</string>
+			<string>Z017</string>
+			<string>Z019</string>
+			<string>Z028</string>
+			<string>Z030</string>
+			<string>Z115</string>
+			<string>Z117</string>
+			<string>Z118</string>
+			<string>Z119</string>
+			<string>Z120</string>
+			<string>Z225</string>
+			<string>Z342</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -701,27 +690,26 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>FLD</string>
 		<key>name</key>
 		<string>Fakulta lesnická a dřevařská</string>
 		<key>rooms</key>
 		<array>
-                     <string>LI</string>
-                    <string>LII</string>
-                    <string>L016</string>
-                    <string>L023</string>
-                    <string>L024</string>
-                    <string>L054</string>
-                    <string>L155</string>
-                    <string>L171</string>
-                    <string>L255</string>
-                    <string>L271</string>
-                    <string>L332</string>
-                    <string>L356</string>
-                    <string>L372</string>
+			<string>LI</string>
+			<string>LII</string>
+			<string>L016</string>
+			<string>L023</string>
+			<string>L024</string>
+			<string>L054</string>
+			<string>L155</string>
+			<string>L171</string>
+			<string>L255</string>
+			<string>L271</string>
+			<string>L332</string>
+			<string>L356</string>
+			<string>L372</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -735,43 +723,42 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>PEF</string>
 		<key>name</key>
 		<string>Provozně ekonomická fakulta</string>
 		<key>rooms</key>
 		<array>
-                        <string>EI</string>
-                        <string>EII</string>
-                        <string>EIII</string>
-                        <string>EIV</string>
-                        <string>EV</string>
-                        <string>E115</string>
-                        <string>E119</string>
-                        <string>E223</string>
-                        <string>E239</string>
-                        <string>E255</string>
-                        <string>E309</string>
-                        <string>E315</string>
-                        <string>E323</string>
-                        <string>E333</string>
-                        <string>E341</string>
-                        <string>E355</string>
-                        <string>E409</string>
-                        <string>E423</string>
-                        <string>E431</string>
-                        <string>E439</string>
-                        <string>E455</string>
-                        <string>C11</string>
-                        <string>C12</string>
-                        <string>C13</string>
-                        <string>C14</string>
-                        <string>C21</string>
-                        <string>C22</string>
-                        <string>C23</string>
-                        <string>C24</string>
+			<string>EI</string>
+			<string>EII</string>
+			<string>EIII</string>
+			<string>EIV</string>
+			<string>EV</string>
+			<string>E115</string>
+			<string>E119</string>
+			<string>E223</string>
+			<string>E239</string>
+			<string>E255</string>
+			<string>E309</string>
+			<string>E315</string>
+			<string>E323</string>
+			<string>E333</string>
+			<string>E341</string>
+			<string>E355</string>
+			<string>E409</string>
+			<string>E423</string>
+			<string>E431</string>
+			<string>E439</string>
+			<string>E455</string>
+			<string>C11</string>
+			<string>C12</string>
+			<string>C13</string>
+			<string>C14</string>
+			<string>C21</string>
+			<string>C22</string>
+			<string>C23</string>
+			<string>C24</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -783,7 +770,7 @@
 				<key>name</key>
 				<string>Vchod</string>
 			</dict>
-                        <dict>
+			<dict>
 				<key>longtitude</key>
 				<real>14.37369</real>
 				<key>latitude</key>
@@ -791,7 +778,7 @@
 				<key>name</key>
 				<string>Vchod</string>
 			</dict>
-                        <dict>
+			<dict>
 				<key>longtitude</key>
 				<real>14.37295</real>
 				<key>latitude</key>
@@ -799,29 +786,28 @@
 				<key>name</key>
 				<string>Vchod</string>
 			</dict>
-                        <dict>
+			<dict>
 				<key>longtitude</key>
 				<real>14.37286</real>
 				<key>latitude</key>
-				<real>50.13050</real>
+				<real>50.1305</real>
 				<key>name</key>
 				<string>Vchod</string>
 			</dict>
 		</array>
-        </dict>
-        
-        <dict>
+	</dict>
+	<dict>
 		<key>shortcut</key>
 		<string>KJ</string>
 		<key>name</key>
 		<string>Katedra jazyků</string>
 		<key>rooms</key>
 		<array>
-                    <string>EA111</string>
-                    <string>EA112</string>
-                    <string>EA113</string>
-                    <string>EA114</string>
-                    <string>EA116</string>
+			<string>EA111</string>
+			<string>EA112</string>
+			<string>EA113</string>
+			<string>EA114</string>
+			<string>EA116</string>
 		</array>
 		<key>exits</key>
 		<array>
@@ -835,15 +821,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>Pokusná a demonstrační stáj</string>
 		<key>name</key>
 		<string>Pokusná a demonstrační stáj</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -856,15 +840,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>CSAS</string>
 		<key>name</key>
 		<string>Bankomat České spořitelny</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -877,15 +859,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>KB</string>
 		<key>name</key>
 		<string>Bankomat Komerční banky</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -898,15 +878,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>P1</string>
 		<key>name</key>
 		<string>Centrální parkoviště</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -919,15 +897,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>ZS</string>
 		<key>name</key>
 		<string>Zdravotní středisko</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -940,15 +916,13 @@
 			</dict>
 		</array>
 	</dict>
-        
-        <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>Klub Kruháč</string>
 		<key>name</key>
 		<string>Klub Kruháč</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -960,15 +934,14 @@
 				<string>Orientační</string>
 			</dict>
 		</array>
-	</dict> 
-        <dict>
+	</dict>
+	<dict>
 		<key>shortcut</key>
 		<string>Mensa</string>
 		<key>name</key>
 		<string>Mensa</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
@@ -981,14 +954,13 @@
 			</dict>
 		</array>
 	</dict>
-         <dict>
+	<dict>
 		<key>shortcut</key>
 		<string>Farma</string>
 		<key>name</key>
 		<string>Restaurace Farma</string>
 		<key>rooms</key>
-		<array>
-		</array>
+		<array/>
 		<key>exits</key>
 		<array>
 			<dict>
