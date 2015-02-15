@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>shortcut</key>
-		<string>KTV ssr</string>
+		<string>KTV</string>
 		<key>name</key>
 		<string>Katedra tělesné výchovy</string>
 		<key>rooms</key>
@@ -30,9 +30,9 @@
 	</dict>
 	<dict>
 		<key>shortcut</key>
-		<string>Kolej A 2</string>
+		<string>Kolej A</string>
 		<key>name</key>
-		<string>Kolej A 2</string>
+		<string>Kolej A</string>
 		<key>rooms</key>
 		<array/>
 		<key>exits</key>
